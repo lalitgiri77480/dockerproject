@@ -1,7 +1,7 @@
 
 # Docker_Project
 
-I have made onee self-hosted file sync and share server in which i have used a wordpress as open source contain managment and MySQL  Database . 
+I have made one self-hosted file sync and share server in which i have used a wordpress as open source contain managment and MySQL  Database . 
 The entire services can be Start/Stop by using just a single command using docker-compose.
 
 # What is Wordpress 
